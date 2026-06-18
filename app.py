@@ -191,6 +191,6 @@ if show_future:
 # ── Footer ────────────────────────────────────────────────────────────────────
 
 st.divider()
-st.caption()
+st.caption(
     "⚠️ **Avertissement** : Ce modèle est développé à des fins académiques. "
-    "Les prédictions ne constituent pas des conseils financiers."
+    "Les prédictions ne constituent pas des conseils financiers.")
